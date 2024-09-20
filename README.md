@@ -1,4 +1,4 @@
-# First Year CS Project - MatrixSolver
+# First Year CS Project - Matrix Solver
 
 1. [Overview](#overview)
 2. [Features](#features)
