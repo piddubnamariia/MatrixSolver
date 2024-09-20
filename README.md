@@ -23,9 +23,8 @@ The goal was to implement an efficient matrix solver capable of finding the dete
 ## Setup and Running
 
 ### Step 1: Clone the Repository
-```sh
+```
 git clone https://github.com/piddubnamariia/MatrixSolver.git
-cd MatrixSolver
 ```
 
 ### Step 2: Run MatrixSolver:
