@@ -29,7 +29,7 @@ git clone https://github.com/piddubnamariia/MatrixSolver.git
 
 ### Step 2: Run MatrixSolver:
 1. Start VS Code.
-2. open Remote Explorer.
+2. Open Remote Explorer.
 3. Create a codespace and select the MatrixSolver repository. 
 
 ## License
